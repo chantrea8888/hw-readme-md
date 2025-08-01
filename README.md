@@ -71,3 +71,7 @@ Access the API at
 | POST   |`/api/students`    | Login to system |
 | PUT    |`/api/students/:id`| Login to system |
 | DELETE |`/api/students/:id`| Login to system |
+
+## Environment Variables
+
+Create a .ev file in the root directory and add:
