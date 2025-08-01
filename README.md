@@ -74,4 +74,8 @@ Access the API at
 
 ## Environment Variables
 
-Create a .ev file in the root directory and add:
+Create a 
+```
+.ev 
+```
+file in the root directory and add:
