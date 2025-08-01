@@ -39,3 +39,6 @@ A Node.js-based aplication designed to simplify and automate school administrati
 ## Installation
 
 Clone the project and install dependencies:
+```
+git clone https://github.com/your-username/school-management-system.git
+```
