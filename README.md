@@ -26,13 +26,13 @@ A Node.js-based aplication designed to simplify and automate school administrati
 
 ## 🛠 Tech Stack
 
-- Programming Language: JavaScript (Noda.js)
-- Runtime: Node.js
-- Framework: Express.js
-- Database: MongoDB / Mongoose (or MySQL/Sequelize)
-- Authentication: JSON Web Taken (JWT)
-- Enironment Management: dotenv
-- Testing: Jest/Mocha (optional)
+- **Programming Language:** JavaScript (Noda.js)
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB / Mongoose (or MySQL/Sequelize)
+- **Authentication:** JSON Web Taken (JWT)
+- **Enironment Management:** dotenv
+- **Testing:** Jest/Mocha (optional)
 
 [![app](https://img.shields.io/badge/Node.js-18.x-green)](https://getbootstrap.com/) [![app](https://img.shields.io/badge/Express.js-Framework-blue)](https://getbootstrap.com/) [![app](https://img.shields.io/badge/MongoDB-Database-green)](https://getbootstrap.com/)  [![app](https://img.shields.io/badge/license-MIT-blue)](https://getbootstrap.com/) 
 
