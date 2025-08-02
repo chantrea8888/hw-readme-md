@@ -15,7 +15,7 @@ A Node.js-based aplication designed to simplify and automate school administrati
 - [Contributors](https://getbootstrap.com/)
 - [License](https://getbootstrap.com/)
 
-## <i class="fa-solid fa-wallet"></i> Features
+## Features
 
 - Students & Teacher Management
 - Class & Subject Assignment 
@@ -49,7 +49,7 @@ cd school-management-system
 npm install
 ```
 ## Screenshot
-![Dashborad](image.png)
+![Dashborad](image1.png)
 ## Usage 
 To run the sever in development mode:
 ```
@@ -74,8 +74,27 @@ Access the API at
 
 ## Environment Variables
 
-Create a 
+Create a .ev file in the root directory and add:
 ```
-.ev 
+PORT=3000
+DB_URI=your_database_connection_string
+JWT_SECRET=your_jwt_secret_key
 ```
-file in the root directory and add:
+## Scripts
+```
+npm start       # Start the server
+npm run dev     # Start with nodemon
+npm test        # Run test cases
+```
+## Contributors
+![Dashborad](image.png)
+
+## License
+This project is licensed under the MIT license. See the LICENSE file for more details.
+
+```
+---
+Let me know:
+- if your project uses MongDB or MySQL (so I can adjust that part)
+- if you want to include screenshots or setup diagrams,
+- or if you'd like this saved as a downloadable `.md` fille.
