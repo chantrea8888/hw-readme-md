@@ -1,21 +1,21 @@
-# school Management System
+# School Management System
 [![app](https://img.shields.io/badge/School_management_system-Adminstrator-green)](https://getbootstrap.com/)
 
 A Node.js-based aplication designed to simplify and automate school administrative tasks such as managing, teahcer, classes, attendance, and more.
 
-## Table of Contents
+## 📚 Table of Contents
 - [Features](https://getbootstrap.com/)
-- [Tech Stack](https://getbootstrap.com/)
-- [Installation](https://getbootstrap.com/)
-- [Usage](https://getbootstrap.com/)
-- [API Endpoints](https://getbootstrap.com/)
-- [Environment Variables](https://getbootstrap.com/)
-- [Scripts](https://getbootstrap.com/)
-- [Contributing](https://getbootstrap.com/)
-- [Contributors](https://getbootstrap.com/)
-- [License](https://getbootstrap.com/)
+- [Tech Stack](https://www.youtube.com/watch?v=qq0f0Aevlgg)
+- [Installation](https://www.youtube.com/@goldensongschannel/videos)
+- [Usage](https://www.youtube.com/watch?v=wHxokYAJlgI)
+- [API Endpoints](https://www.youtube.com/watch?v=Is-OBign2GQ)
+- [Environment Variables](https://www.youtube.com/watch?v=NL3yyzN5gyc)
+- [Scripts](https://www.youtube.com/watch?v=4k4UKLK1EdM)
+- [Contributing](https://www.youtube.com/watch?v=qQ1WFlqraD8)
+- [Contributors](https://www.youtube.com/@LyricsforHer2)
+- [License](https://www.youtube.com/watch?v=kL509akLmHw)
 
-## Features
+## ✨ Features
 
 - Students & Teacher Management
 - Class & Subject Assignment 
@@ -24,7 +24,7 @@ A Node.js-based aplication designed to simplify and automate school administrati
 - Uer Authentication (JWT)
 - Admin Dashboard
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Programming Language: JavaScript (Noda.js)
 - Runtime: Node.js
@@ -36,7 +36,7 @@ A Node.js-based aplication designed to simplify and automate school administrati
 
 [![app](https://img.shields.io/badge/Node.js-18.x-green)](https://getbootstrap.com/) [![app](https://img.shields.io/badge/Express.js-Framework-blue)](https://getbootstrap.com/) [![app](https://img.shields.io/badge/MongoDB-Database-green)](https://getbootstrap.com/)  [![app](https://img.shields.io/badge/license-MIT-blue)](https://getbootstrap.com/) 
 
-## Installation
+## 🚀 Installation
 
 Clone the project and install dependencies:
 ```
@@ -50,7 +50,7 @@ npm install
 ```
 ## Screenshot
 ![Dashborad](image1.png)
-## Usage 
+## 🔧 Usage 
 To run the sever in development mode:
 ```
 npm run dev
@@ -63,7 +63,7 @@ Access the API at
 ```
  http://localhost:3000/api
  ```
- ## API Endpoints
+ ## 📮 API Endpoints
 | Method |-------------------| Description     |
 |--------|-------------------|-----------------|
 | POST   |`/api/auth/login`  | Login to system |
@@ -72,7 +72,7 @@ Access the API at
 | PUT    |`/api/students/:id`| Login to system |
 | DELETE |`/api/students/:id`| Login to system |
 
-## Environment Variables
+## 🔑 Environment Variables
 
 Create a .ev file in the root directory and add:
 ```
@@ -80,16 +80,16 @@ PORT=3000
 DB_URI=your_database_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
-## Scripts
+## 🧪 Scripts
 ```
 npm start       # Start the server
 npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
-## Contributors
+## 👥 Contributors
 ![Dashborad](image.png)
 
-## License
+## 📄 License
 This project is licensed under the MIT license. See the LICENSE file for more details.
 
 ```
