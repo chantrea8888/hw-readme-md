@@ -87,7 +87,8 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
-![Dashborad](image.png)
+![@chantrea8888](https://contrib.rocks/image?repo=chantrea8888/hw-readme-md)
+
 
 ## 📄 License
 This project is licensed under the MIT license. See the LICENSE file for more details.
