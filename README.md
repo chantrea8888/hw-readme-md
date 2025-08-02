@@ -15,7 +15,7 @@ A Node.js-based aplication designed to simplify and automate school administrati
 - [Contributors](https://getbootstrap.com/)
 - [License](https://getbootstrap.com/)
 
-## Features
+## <i class="fa-solid fa-wallet"></i> Features
 
 - Students & Teacher Management
 - Class & Subject Assignment 
